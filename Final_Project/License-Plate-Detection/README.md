@@ -78,7 +78,7 @@ License-Plate-Detection/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/parvathydevu/Raspberry-pi/License-Plate-Detection.git
+   git clone https://github.com/parvathydevu/Raspberry-pi/Final_Project/License-Plate-Detection.git
    cd License-Plate-Detection
    ```F
 
